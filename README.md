@@ -1,5 +1,5 @@
 # Python-Amazon-Web-Scraper
-# Amazon Web Scraper Project Using BeautifulSoup
+# Amazon web scraper project using BeautifulSoup
 
 Stages of the Web Scraper:
 
