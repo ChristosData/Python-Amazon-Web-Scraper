@@ -5,7 +5,7 @@ Stages of the Web Scraper:
 
 - Connect to website we intend to scrape and pull-in data<br>
 - Strip the content as part of data cleaning before it is imported into a CSV file<br>
-- create a timestamp, to track when data was collected<br>
+- Create a timestamp, to track when data was collected<br>
 - Create the CSV file where scraped files will be collated, write headers and data into file<br>
 - Print data from the CSV file we have just created<br>
 - Appending new data to the CSV<br>
